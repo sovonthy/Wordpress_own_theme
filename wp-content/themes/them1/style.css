@@ -1,0 +1,30 @@
+/* theme name : theme1
+author: sovonthy5555
+author url: http://localhost/sovonthy_wordpress/cmsLearning/
+version: 1.0
+*/
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+header{
+    background-color: purple;
+    padding: 12px;
+    color: white;
+}
+footer{
+    background-color:purple;
+    padding: 5px;
+    color: white;
+    height: 150px;
+}
+header h1{
+    margin: 0; 
+    padding-bottom: 10px;
+    color: palegreen
+
+}
+.container {
+    width:1024px;
+}
